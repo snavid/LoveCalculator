@@ -25,7 +25,6 @@ def analyze_input(sex1, sex2):
     
 #Receives the list and break it into two equal lists with the middle value aside for lists with odd number of items       
 def list_computer(list):
-    print(list)
     try:
         length = len(list)
         if (length % 2) == 0:
