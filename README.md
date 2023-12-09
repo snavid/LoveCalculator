@@ -2,10 +2,7 @@
 Introducing my Python module, a sophisticated Love Calculator crafted with a blend of deep thinking and creative problem-solving. Developed by me, this module transcends conventional algorithms to provide a unique and personalized approach to measuring love compatibility with letters in the individual names.
 Absolutely! Crafting a compelling project description is crucial. Here's an enhanced description for your love calculator game:
 
-# Installing the Package
-```bash
-pip install LoveCalculator
-```
+
 
 **LoveCalculator: A Love Calculator Module**
 
@@ -19,7 +16,10 @@ Unleash the power of love with LoveCalculator, an enchanting Python module desig
 **Why Choose PyLoveCalc?**
 
 Unleash the magic of PyLoveCalc and let love take center stage. Whether you're developing a fun-loving game or adding a touch of romance to your application, PyLoveCalc makes it a breeze.
-
+**Installing the Package:**
+```bash
+pip install LoveCalculator
+```
 **Sample Usage:**
 
 ```python
