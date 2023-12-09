@@ -13,9 +13,9 @@ Unleash the power of love with LoveCalculator, an enchanting Python module desig
 - 💖 Accurate Love Percentage Prediction
 - 🎲 Engaging Love Calculator Game Experience
 
-**Why Choose PyLoveCalc?**
+**Why Choose LoveCalculator?**
 
-Unleash the magic of PyLoveCalc and let love take center stage. Whether you're developing a fun-loving game or adding a touch of romance to your application, PyLoveCalc makes it a breeze.
+Unleash the magic of LoveCalculator and let love take center stage. Whether you're developing a fun-loving game or adding a touch of romance to your application, PyLoveCalc makes it a breeze.
 
 **Installing the Package:**
 ```bash
@@ -32,8 +32,6 @@ love_percentage = NormalLoveCalc("Romeo", "Juliet")
 print(f"The love percentage between Romeo and Juliet is: {love_percentage}%")
 ```
 
-Embark on a journey of love and compatibility. PyLoveCalc - where romance meets technology!
+Embark on a journey of love and compatibility. LoveCalculator - where romance meets technology!
 
 ---
-
-Feel free to tailor this description further to match your specific project details and style preferences.
