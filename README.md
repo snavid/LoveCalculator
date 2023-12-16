@@ -15,7 +15,7 @@ Unleash the power of love with LoveCalculator, an enchanting Python module desig
 
 **Why Choose LoveCalculator?**
 
-Unleash the magic of LoveCalculator and let love take center stage. Whether you're developing a fun-loving game or adding a touch of romance to your application, PyLoveCalc makes it a breeze.
+Unleash the magic of LoveCalculator and let love take center stage. Whether you're developing a fun-loving game or adding a touch of romance to your application, LoveCalculator makes it a breeze.
 
 **Installing the Package:**
 ```bash
